@@ -1,0 +1,5 @@
+{
+  "name": "universidad/escuela",
+  "description": "Proyecto PHP con SQLite y Supabase",
+  "require": {}
+}
